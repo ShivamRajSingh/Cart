@@ -18,6 +18,7 @@ const Cart = (props) =>{
             {/* {arr.map((item) =>{
                 return item + 5
             })} */}
+            
         </div>
     )
 }
